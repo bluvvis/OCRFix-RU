@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# Course assignment text — keep local only, do not publish to GitHub
+case_studies.md
