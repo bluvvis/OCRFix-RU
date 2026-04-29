@@ -1,6 +1,6 @@
 # OCRFix-RU
 
-2.3 Hybrid Word+Character N-gram for Error Correction
+**2.3 Hybrid Word+Character N-gram for Error Correction**
 
 Hybrid word+character n-gram project for OCR error correction.
 
