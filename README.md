@@ -39,7 +39,7 @@ Combine character-level and word-level n-grams to detect and auto-correct noisy 
 - `scripts/build_case_study.py` - end-to-end artifact builder.
 - `poster/poster.tex` - generated poster source.
 - `poster/NLP_poster.pdf` - final one-page poster PDF.
-- `notebooks/case_study.ipynb` - case-study notebook (motivation, protocol, metrics, headline run, qualitative demo, ablations).
+**- `notebooks/case_study.ipynb` - case-study notebook (motivation, protocol, metrics, headline run, qualitative demo, ablations).**
 - `tests/` - automated tests.
 
 ## Setup
