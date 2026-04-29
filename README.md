@@ -100,12 +100,3 @@ Main headline metric in `artifacts/report.json` is computed on a controlled synt
 ```bash
 python -m ocrfix_ru.cli --text "мама мыла раму и к0т спит"
 ```
-
-## Notes for your final case study deliverables
-
-- Main experiment is already scaffolded in code and testable from CLI.
-- You can now add a notebook with:
-  - motivation,
-  - data and synthetic noise settings,
-  - model setup and ablations,
-  - final comparison plots/tables for the poster.
